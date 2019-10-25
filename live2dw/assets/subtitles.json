@@ -1,0 +1,374 @@
+[
+  {
+    "locale": "default ja-jp",
+    "name": "日本語(Japanese)",
+    "description": "Any help with translation will be appreciated!",
+    "font":"MS Gothic",
+    "subtitles": [
+      {
+        "name": "1",
+        "text": "なにか面白いことでもあった？"
+      }, {
+        "name": "6",
+        "text": "あっ！ いーけないんだ、いけないんだ！ いたいけな乙女の体にタッチなんて！"
+      }, {
+        "name": "8",
+        "text": "わっ！びっくりしたなー、もう。"
+      }, {
+        "name": "9",
+        "text": "んっ！ ちょっと待ってよー！ くすぐったいよ！"
+      }, {
+        "name": "16",
+        "text": "おっはよー！ 今日も１日がんばろーね！"
+      }, {
+        "name": "17",
+        "text": "おはよー。 今日も気分爽快愉快痛快に楽しんじゃうよー！"
+      }, {
+        "name": "18",
+        "text": "お昼だよー。 美味しいご飯をよーきゅーするよー！"
+      }, {
+        "name": "19",
+        "text": "もうお昼だねー。 さーて、もうひと眠りしよっかなー。 え？ダメ？"
+      }, {
+        "name": "20",
+        "text": "こんにちは？ こんばんは？ んー、微妙な時間帯だから、おはようー！"
+      }, {
+        "name": "21",
+        "text": "お疲れ様ー！ 今日も一日ごくろーさま！"
+      }, {
+        "name": "22",
+        "text": "まだまだ宵の口……本番はこれからだねっ！"
+      }, {
+        "name": "23",
+        "text": "こんばんはー。 なんか面白いテレビやってないかなー？"
+      }, {
+        "name": "24",
+        "text": "こんばんはー。 こんな時間からなんて、元気だなー。"
+      }, {
+        "name": "25",
+        "text": "くぁ……んー、眠いよー。"
+      }, {
+        "name": "32",
+        "text": "ごろごろ、ごろごろ。 働かなーい、それが正義（ジャスティス）！"
+      }, {
+        "name": "33",
+        "text": "おお？ この服には思い出がいっぱいだよー。 うん、かび臭くはないよ？"
+      }, {
+        "name": "42",
+        "text": "あけましておめでとうございます。 1年の芸は元旦にあるんだよ！ さ、初芸披露っ！"
+      }, {
+        "name": "43",
+        "text": "メリークリスマースッ！ 今日はごちそーも、プレゼントもあるんだよね！"
+      }, {
+        "name": "48",
+        "text": "トリック・オア・トリートッ！ お菓子くれなきゃいたずらするよー！"
+      }, {
+        "name": "55",
+        "text": "ねぇ！ 一緒にプリン食べにいこーよ！"
+      }, {
+        "name": "65",
+        "text": "プリン食べたいよー！"
+      }, {
+        "name": "78",
+        "text": "お風呂にする？ ご飯にする？ それとも……えっと、その……ゲーム？"
+      }
+    ]
+  },
+  {
+    "locale": "en-us",
+    "name": "English",
+    "description": "Translated by <b>Shiro</b> and <b>R3M11X夢見る人✿◕◡◕</b>.",
+    "font":"Trebuchet MS,Segoe UI",
+    "subtitles": [
+      {
+        "name": "1",
+        "text": "Was there something interesting?"
+      }, {
+        "name": "6",
+        "text": "Ah! You cannot do that, you cannot do that! Don't touch a maiden's body!"
+      }, {
+        "name": "8",
+        "text": "Wah! I was surprised. Jeez."
+      }, {
+        "name": "9",
+        "text": "Wait a moment! That tickles!"
+      }, {
+        "name": "16",
+        "text": "Good Morning! Let's give it our best today too!"
+      }, {
+        "name": "17",
+        "text": "Good morning. Let's enjoy this day to the fullest too!"
+      }, {
+        "name": "18",
+        "text": "It's lunchtime... I want a delicious meal!"
+      }, {
+        "name": "19",
+        "text": "It's already noon. So, I'm just about to nap. Eh? I can't?"
+      }, {
+        "name": "20",
+        "text": "Good Afternoon? Good Evening? Hmm, because it's a subtle time, Good Morning!"
+      }, {
+        "name": "21",
+        "text": "Well done! Thank you for today!"
+      }, {
+        "name": "22",
+        "text": "It's just nightfall...... The real part has yet to come!"
+      }, {
+        "name": "23",
+        "text": "Good Evening. I wonder if there's anything interesting on TV?"
+      }, {
+        "name": "24",
+        "text": "Good Evening. At a time like this, you sure are energetic."
+      }, {
+        "name": "25",
+        "text": "*Yaw......n*, I'm sleepy."
+      }, {
+        "name": "32",
+        "text": "*Purr, Purr* I don't work, that is JUSTICE!"
+      }, {
+        "name": "33",
+        "text": "Oh? There are lots of memories in these clothes. Yeah, they are not musty."
+      }, {
+        "name": "42",
+        "text": "Happy New Year. One Year's performance is in New Year's Day! Ah, time to show off my first show!"
+      }, {
+        "name": "43",
+        "text": "Merry Christmas! There are also feasts and presents today!"
+      }, {
+        "name": "48",
+        "text": "Trick or treat! I will misbehave if you don't give me sweets!"
+      }, {
+        "name": "55",
+        "text": "Hey! Let's eat pudding together!"
+      }, {
+        "name": "65",
+        "text": "I want to eat pudding!"
+      }, {
+        "name": "78",
+        "text": "Would you like to take a bath? Have a meal? Or...... er, umm...... Game?"
+      }
+    ]
+  },
+  {
+    "locale": "ru-ru",
+    "name": "Русский (Russian)",
+    "description": "Translated by <b>_afs</b>.",
+    "font":"Trebuchet MS,Segoe UI",
+    "subtitles": [
+      {
+        "name": "1",
+        "text": "Что-то интересное увидел?"
+      }, {
+        "name": "6",
+        "text": "Ах. Нельзя-нельзя, нельзя-нельзя! Не трогай тело невинной девушки!"
+      }, {
+        "name": "8",
+        "text": "А! Напугал меня, блин."
+      }, {
+        "name": "9",
+        "text": "Ой, ну прекрати... Щекотно же!"
+      }, {
+        "name": "16",
+        "text": "Доброе утро! Давай сегодня постараемся?"
+      }, {
+        "name": "17",
+        "text": "Доброе утро! Чувствую себя сегодня отдохнувшей и супер-пупер прерадостной!"
+      }, {
+        "name": "18",
+        "text": "Время обедать! Приятного аппетита мне!"
+      }, {
+        "name": "19",
+        "text": "Уже полдень. Что ж, поспать что ли маленько? А? Нельзя?"
+      }, {
+        "name": "20",
+        "text": "Добрый день? Добрый вечер? Хм, раз уж время такое переменчивое, то — здравствуй!"
+      }, {
+        "name": "21",
+        "text": "Спасибо за работу! Хорошо постарался сегодня."
+      }, {
+        "name": "22",
+        "text": "Пока только смеркается. Всё самое интересное ещё впереди!"
+      }, {
+        "name": "23",
+        "text": "Доброго вечера. Ничего интересного по телевизору не видел?"
+      }, {
+        "name": "24",
+        "text": "Добрый вечер. Люблю это время суток."
+      }, {
+        "name": "25",
+        "text": "Ох... Спать хочется."
+      }, {
+        "name": "32",
+        "text": "Мур-мур, мур-мур. Не буду работать, вот она — справедливость!"
+      }, {
+        "name": "33",
+        "text": "А эта одёжка несёт в себе множество воспоминаний! Нюх-нюх, нюх-нюх. Не пахнет затхлостью ведь?"
+      }, {
+        "name": "42",
+        "text": "Счастливого Нового года! Первое число следующего месяца — его начало. Ну что, зажжём?"
+      }, {
+        "name": "43",
+        "text": "Счастливого Рождества! Сегодня праздник, а значит, будут и подарки!"
+      }, {
+        "name": "48",
+        "text": "Сладость или гадость! Давай конфеты или я напакостничаю!"
+      }, {
+        "name": "55",
+        "text": "Эй, давай вместе по пудингу скушаем?"
+      }, {
+        "name": "65",
+        "text": "Пудинг хочу!"
+      }, {
+        "name": "78",
+        "text": "Хочешь принять ванну? А поесть? Или, может... хочешь... ну... поиграть?"
+      }
+    ]
+  },
+  {
+    "locale": "zh-chs zh-cht zh-cn",
+    "name": "中文(Chinese)",
+    "description": "基于<b>星空月之夜</b>的翻译，感谢！",
+    "font":"Microsoft YaHei UI,黑体",
+    "subtitles": [
+      {
+        "name": "1",
+        "text": "有什么有趣的事情吗？"
+      }, {
+        "name": "6",
+        "text": "啊!不，不行，不行！不可以乱摸少女的身体哦!"
+      }, {
+        "name": "8",
+        "text": "哇!刚才吓了一跳。"
+      }, {
+        "name": "9",
+        "text": "嗯!等一下!好痒啊!"
+      }, {
+        "name": "16",
+        "text": "哦，哦！今天一天也加油吧！"
+      }, {
+        "name": "17",
+        "text": "请多关照。今天也享受愉快的心情哟!"
+      }, {
+        "name": "18",
+        "text": "中午好～。要记得好好的吃饭啊!"
+      }, {
+        "name": "19",
+        "text": "已经吃过午饭了。好了，再睡一觉吧。呃?不行吗?"
+      }, {
+        "name": "20",
+        "text": "你好吗?晚上好吗？嗯，因为是微妙的时间，所以早上好!"
+      }, {
+        "name": "21",
+        "text": "辛苦了!今天也是同样的一天!"
+      }, {
+        "name": "22",
+        "text": "天还早呢……正式演出就要开始了!"
+      }, {
+        "name": "23",
+        "text": "晚安。有什么有趣的电视节目吗?"
+      }, {
+        "name": "24",
+        "text": "晚安。从这个时间开始，我很有精神啊。"
+      }, {
+        "name": "25",
+        "text": "啊……嗯，好困啊～。"
+      }, {
+        "name": "32",
+        "text": "咕噜～咕噜～我不工作，这就是正义!"
+      }, {
+        "name": "33",
+        "text": "哦?这件衣服充满了回忆哦。嗯，没有霉味呢？"
+      }, {
+        "name": "42",
+        "text": "新年快乐。一年的艺术在于元旦！那么，开始表演！"
+      }, {
+        "name": "43",
+        "text": "圣诞快乐！今天也有庆祝活动和礼物呢！"
+      }, {
+        "name": "55",
+        "text": "哎！一起去吃布丁吧!"
+      }, {
+        "name": "65",
+        "text": "我想要吃布丁哦!"
+      }, {
+        "name": "78",
+        "text": "是先洗澡？吃饭？还是……诶、那个……游戏？"
+      }
+    ]
+  },
+  {
+    "locale": "es-es",
+    "name": "Español(Spanish)",
+    "description": "Translated by <b>javihunt</b>.",
+    "font": "Arial",
+    "subtitles": [
+      {
+        "name": "1",
+        "text": "¿Hubo algo interesante?"
+      }, {
+        "name": "6",
+        "text": "¡No puedes hacerlo!, ¡No puedes hacerlo! ¡No puedes tocar el cuerpo de una inocente chica!"
+      }, {
+        "name": "8",
+        "text": "¡Wow! Me sorprendiste. "
+      }, {
+        "name": "9",
+        "text": "Hey, ¡Espera! ¡Eso da cosquillas!"
+      }, {
+        "name": "16",
+        "text": "¡Hey! ¡Hoy es un dia para darlo todo!"
+      }, {
+        "name": "17",
+        "text": "Buenos dias, ¡Me siento refrescada y agradablemente agradable hoy!"
+      }, {
+        "name": "18",
+        "text": "Es hora del almuerzo ... ¡Quiero una comida deliciosa!"
+      }, {
+        "name": "19",
+        "text": "Ya es medio dia. Así que, me voy a dormir. ¿Huh? ¿No puedo?"
+      }, {
+        "name": "20",
+        "text": "¿Buenas tardes? ¿Buenas noches? Hmm, Por que es un tiempo sutil , ¡Saludos!"
+      }, {
+        "name": "21",
+        "text": "¡Gracias por tu duro trabajo hoy! ¡Gracias por hoy!"
+      }, {
+        "name": "22",
+        "text": "Esta anocheciendo... ¡La parte seria esta por venir!"
+      }, {
+        "name": "23",
+        "text": "Buenas tardes, Has visto algo interesante en la TV?"
+      }, {
+        "name": "24",
+        "text": "Buenas tardes, Estoy bien desde este momento."
+      }, {
+        "name": "25",
+        "text": "Oh ... oh, Tengo sueño."
+      }, {
+        "name": "32",
+        "text": "*Purr, Purr* Yo no trabajo, !Eso es JUSTICIA!"
+      }, {
+        "name": "33",
+        "text": "Oh, Hay muchas memorias en esta ropa ... si, ¿No esta mohosa?"
+      }, {
+        "name": "42",
+        "text": "Feliz año nuevo, ¡El arte de 1 año es el dia de añi nuevo!, ¡Bien, te mostraré mi primera actuación!."
+      }, {
+        "name": "43",
+        "text": "¡Felices Fiestas!, ¡ Hoy habra festividades y regalos!"
+      }, {
+        "name": "48",
+        "text": "¡Dulce o truco! ¡Dame dulces o haré travesuras!"
+      }, {
+        "name": "55",
+        "text": "¡Hey! Vamos a comer pudín juntos!"
+      }, {
+        "name": "65",
+        "text": "¡Quiero comer pudín!"
+      }, {
+        "name": "78",
+        "text": "¿Te gustaira un baño? ¿o tal vez almorzar? o... tal vez, un... juego?"
+      }
+    ]
+  }
+]
